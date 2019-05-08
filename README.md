@@ -1,5 +1,7 @@
 本ページの短縮URL(ここに演習PCからアクセスしてください)
 
+https://git.io/fjcoK
+
 
 Ansible ハンズオンテキスト
 
