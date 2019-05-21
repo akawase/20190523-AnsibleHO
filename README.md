@@ -1,10 +1,8 @@
 Ansible ハンズオン
 ===
+- 本ページの短縮URL(ここに演習PCからアクセスしてください)  
+  - https://git.io/fjcoK
 
-本ページの短縮URL(ここに演習PCからアクセスしてください)  
-- https://git.io/fjcoK
-
-ハンズオン情報
 - 演習用PCログイン情報（貸出PCをご利用の方)
   - ユーザー名: guest
   - パスワード: guest
