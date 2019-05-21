@@ -16,4 +16,7 @@ Ansible ハンズオン
 
 ## その他参考情報
 - [Ansible Tower のオフラインインストール方法](https://rheb.hatenablog.com/entry/2018/12/25/Ansible_Tower_%E3%81%AE%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+- [赤帽エンジニアブログ](https://rheb.hatenablog.com/)
+- [Ansible ユーザー会](https://ansiblejp.github.io/)
+
 
