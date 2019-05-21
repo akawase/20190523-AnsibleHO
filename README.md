@@ -10,8 +10,8 @@ Ansible ハンズオン
   - パスワード: guest
 
 ## Ansible ハンズオンテキスト  
-https://github.com/network-automation/linklight/blob/master/exercises/ansible_engine/README.ja.md  
-https://github.com/network-automation/linklight/blob/master/exercises/ansible_tower/README.ja.md
+- https://github.com/network-automation/linklight/blob/master/exercises/ansible_engine/README.ja.md  
+- https://github.com/network-automation/linklight/blob/master/exercises/ansible_tower/README.ja.md
 
 
 ## その他参考情報
