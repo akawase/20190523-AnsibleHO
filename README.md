@@ -11,6 +11,8 @@ Ansible ハンズオン
 - https://github.com/network-automation/linklight/blob/master/exercises/ansible_engine/README.ja.md  
 - https://github.com/network-automation/linklight/blob/master/exercises/ansible_tower/README.ja.md
 
+## ライセンスファイル
+- https://github.com/akawase/20190523-AnsibleHO/blob/master/license.txt
 
 ## その他参考情報
 - [赤帽エンジニアブログ](https://rheb.hatenablog.com/)
